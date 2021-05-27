@@ -126,9 +126,9 @@ contract Donations {
     }
     
     /*  
-    ------------------------------
-    Funções exclusivas para testes
-    ------------------------------
+    *--------------------------------
+    * Funções exclusivas para testes
+    *--------------------------------
     */
     
     // Cadastrar Estudante
@@ -191,6 +191,7 @@ contract Donations {
         }
     }
     
+    // Verificar o valor total arrecadado
     function checkCollected(address adStudent) public view returns(uint collected) {
         for (uint i = 0; i < students.length; i++) {
             if (students[i].student == adStudent) {
