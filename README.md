@@ -30,4 +30,6 @@ Vulnerabilidade Educacional.
 </p>
 
 ---
-🔗 Acesse o documento completo [aqui](TCC.pdf).
+
+🔗 Acesse o documento completo [aqui](TCC.pdf "Trabalho de Conclusão de Curso em formato PDF"). <br />
+💰 Feito junto ao projeto [Donations for Education](https://github.com/latin-ifpb/donations-for-education "Link do repositório de Donations for Education") do [LaTIn](https://github.com/latin-ifpb "Laboratório de Tecnologia da Informação do IFPB Campus Campina Grande").
