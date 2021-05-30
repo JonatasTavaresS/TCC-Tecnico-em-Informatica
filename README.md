@@ -20,7 +20,7 @@
   Orientador: Prof. Dr. Katyusco de Farias Santos
 </p>
 
-## 📃 Resumo
+## 📑 Resumo
 <p align="justify">
   No ano de 2020, no Brasil, milhões de estudantes foram afetados pela pandemia de COVID-19. Nesse sentido, instituições de ensino tiveram que recorrer ao ensino à distância, prejudicando, em maioria, discentes em situação de vulnerabilidade socioeconômica sem acesso à internet. Nessa conjuntura, este trabalho objetiva, através de pesquisas bibliográficas, compreender os impactos causados pela pandemia e investigar formas de mitigar essa situação sob uma perspectiva tecnológica. Partindo do pressuposto de que doações podem contribuir para reduzir essas desigualdades, foram buscadas respostas que expliquem o porquê de aspessoas confiarem e realizarem, ou não, doações. A partir disso, valendo-se da tecnologia Blockchain, foi desenvolvido um smart contract na linguagem de programação Solidity, com requisitos e casos de uso devidamente representados em diagramas, que simula um sistema de doações transparente e seguro, superando, assim, o impasse da falta de confiança nas organizações que arrecadam doações. Promovendo, consequentemente, o auxílio a estudantes em situação de vulnerabilidade socioeconômica durante a pandemia do novo coronavírus.
 </p>
@@ -31,5 +31,5 @@ Vulnerabilidade Educacional.
 
 ---
 
-🔗 Acesse o documento completo [aqui](TCC.pdf "Trabalho de Conclusão de Curso em formato PDF"). <br />
-💰 Feito junto ao projeto [Donations for Education](https://github.com/latin-ifpb/donations-for-education "Link do repositório de Donations for Education") do [LaTIn](https://github.com/latin-ifpb "Laboratório de Tecnologia da Informação do IFPB Campus Campina Grande").
+📃 Acesse o documento completo [aqui](TCC.pdf "Trabalho de Conclusão de Curso em formato PDF"). <br />
+🤝🏻 Feito junto ao projeto [Donations for Education](https://github.com/latin-ifpb/donations-for-education "Repositório de Donations for Education") do [LaTIn](https://github.com/latin-ifpb "Laboratório de Tecnologia da Informação do IFPB Campus Campina Grande").
